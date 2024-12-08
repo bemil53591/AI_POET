@@ -1,0 +1,4 @@
+python
+openai
+langchain
+langchain-openai
